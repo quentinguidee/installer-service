@@ -42,6 +42,6 @@
         "sass": "^1.69.5",
         "typescript": "^5.0.2",
         "unist-util-visit": "^5.0.0",
-        "vite": "^5.1.4"
+        "vite": "^5.1.7"
     }
 }

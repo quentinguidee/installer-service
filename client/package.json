@@ -67,6 +67,6 @@
         "sass": "^1.71.1",
         "start-server-and-test": "^2.0.3",
         "typescript": "^5.2.2",
-        "vite": "^5.1.4"
+        "vite": "^5.1.7"
     }
 }
