@@ -29,7 +29,7 @@ require (
 	github.com/wI2L/fizz v0.22.0
 	go.uber.org/atomic v1.11.0
 	golang.org/x/crypto v0.21.0
-	golang.org/x/net v0.22.0
+	golang.org/x/net v0.23.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/postgres v1.5.7
 	gorm.io/gorm v1.25.7
